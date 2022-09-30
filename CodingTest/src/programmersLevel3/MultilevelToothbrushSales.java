@@ -30,7 +30,7 @@ public class MultilevelToothbrushSales {
 			enrollProfit.put(name, 0);
 		}
         for (int i = 0; i < enroll.length; i++) {
-				enrollReferral.put(enroll[i], referral[i]);
+			enrollReferral.put(enroll[i], referral[i]);
 		}
         
         //이익 계산
